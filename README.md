@@ -6,9 +6,9 @@ O jogo Pedra, Papel e Tesoura é um aplicativo desenvolvido em Flutter onde o us
 
 Componentes da Dupla
 
-Nicolas Speck
+122100021
 
-Vitor Silva
+222100013
 
 Captura de Tela do Aplicativo:
 
